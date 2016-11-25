@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{C5E978BE-FF24-4F0E-8450-0F41C192DAA9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ejercicio5/Program.cs">
+    <Files>
+      <File FileName="ejercicio5/Program.cs" Line="12" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ejercicio5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
