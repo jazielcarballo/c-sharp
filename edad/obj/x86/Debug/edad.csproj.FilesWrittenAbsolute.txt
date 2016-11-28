@@ -1,0 +1,5 @@
+/Users/jazielcarballo/Projects/edad/edad/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jazielcarballo/Projects/edad/edad/bin/Debug/edad.exe.mdb
+/Users/jazielcarballo/Projects/edad/edad/bin/Debug/edad.exe
+/Users/jazielcarballo/Projects/edad/edad/obj/x86/Debug/edad.exe
+/Users/jazielcarballo/Projects/edad/edad/obj/x86/Debug/edad.exe.mdb
