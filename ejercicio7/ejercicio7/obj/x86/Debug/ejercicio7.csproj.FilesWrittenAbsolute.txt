@@ -1,0 +1,5 @@
+/Users/jazielcarballo/Projects/ejercicio7/ejercicio7/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jazielcarballo/Projects/ejercicio7/ejercicio7/bin/Debug/ejercicio7.exe.mdb
+/Users/jazielcarballo/Projects/ejercicio7/ejercicio7/bin/Debug/ejercicio7.exe
+/Users/jazielcarballo/Projects/ejercicio7/ejercicio7/obj/x86/Debug/ejercicio7.exe
+/Users/jazielcarballo/Projects/ejercicio7/ejercicio7/obj/x86/Debug/ejercicio7.exe.mdb
