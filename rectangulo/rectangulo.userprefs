@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{BC7FFA50-79D4-4CCF-99C5-CC13983009DC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="rectangulo/Program.cs">
+    <Files>
+      <File FileName="rectangulo/Program.cs" Line="1" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.rectangulo PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

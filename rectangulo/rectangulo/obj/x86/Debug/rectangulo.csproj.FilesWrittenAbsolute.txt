@@ -1,0 +1,5 @@
+/Users/jazielcarballo/Projects/rectangulo/rectangulo/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jazielcarballo/Projects/rectangulo/rectangulo/bin/Debug/rectangulo.exe.mdb
+/Users/jazielcarballo/Projects/rectangulo/rectangulo/bin/Debug/rectangulo.exe
+/Users/jazielcarballo/Projects/rectangulo/rectangulo/obj/x86/Debug/rectangulo.exe
+/Users/jazielcarballo/Projects/rectangulo/rectangulo/obj/x86/Debug/rectangulo.exe.mdb
